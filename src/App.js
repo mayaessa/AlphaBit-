@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import FormBuilder from "./components/FormBuilder";
+import formConfig from "./config/formConfig";
+import "./styles/form.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="page-container">
+
+      <div className="form-card">
+
+        <h2 className="form-title">
+          Dynamic Form Builder
+        </h2>
+
+        <FormBuilder config={formConfig} />
+
+      </div>
+
     </div>
   );
 }
