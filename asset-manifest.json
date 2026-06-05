@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AlphaBit/static/css/main.f0944634.css",
-    "main.js": "/AlphaBit/static/js/main.49763184.js",
-    "static/js/453.28eecab6.chunk.js": "/AlphaBit/static/js/453.28eecab6.chunk.js",
-    "index.html": "/AlphaBit/index.html",
-    "main.f0944634.css.map": "/AlphaBit/static/css/main.f0944634.css.map",
-    "main.49763184.js.map": "/AlphaBit/static/js/main.49763184.js.map",
-    "453.28eecab6.chunk.js.map": "/AlphaBit/static/js/453.28eecab6.chunk.js.map"
+    "main.css": "/AlphaBit-/static/css/main.f0944634.css",
+    "main.js": "/AlphaBit-/static/js/main.81b6f367.js",
+    "static/js/453.28eecab6.chunk.js": "/AlphaBit-/static/js/453.28eecab6.chunk.js",
+    "index.html": "/AlphaBit-/index.html",
+    "main.f0944634.css.map": "/AlphaBit-/static/css/main.f0944634.css.map",
+    "main.81b6f367.js.map": "/AlphaBit-/static/js/main.81b6f367.js.map",
+    "453.28eecab6.chunk.js.map": "/AlphaBit-/static/js/453.28eecab6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0944634.css",
-    "static/js/main.49763184.js"
+    "static/js/main.81b6f367.js"
   ]
 }
